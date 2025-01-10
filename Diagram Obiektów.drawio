@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.4">
   <diagram name="Strona-1" id="d7RYlsGYjwD9yJNGtqJ3">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-2" target="PuXWucOc1bqQBJpgRMBS-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-2" target="PuXWucOc1bqQBJpgRMBS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="190" />
+              <mxPoint x="200" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-2" target="PuXWucOc1bqQBJpgRMBS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="190" />
+              <mxPoint x="640" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;BIBLIOTEKA&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;MAG- KSIĄŻEK&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-3" target="PuXWucOc1bqQBJpgRMBS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;GATUNEK&lt;/font&gt;&lt;/b&gt; -&lt;div&gt;&lt;div&gt;KRYMINAŁ&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-4" target="PuXWucOc1bqQBJpgRMBS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;AUTOR&lt;/b&gt;&lt;/font&gt; -&lt;div&gt;AGATHA CHRISTIE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;GATUNEK&lt;/font&gt;&lt;/b&gt; -&lt;div&gt;TURYSTYKA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=2;" edge="1" parent="1" source="PuXWucOc1bqQBJpgRMBS-6" target="PuXWucOc1bqQBJpgRMBS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;GATUNEK&lt;/font&gt;&lt;/b&gt; -&lt;div&gt;FANTASTYKA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;KSIĄŻKA&lt;/b&gt;&lt;/font&gt; -&lt;div&gt;ZABÓJSTWO ROGERA ACKROYDA&lt;/div&gt;&lt;div&gt;WYDANIE 1926&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PuXWucOc1bqQBJpgRMBS-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;AUTOR &lt;/b&gt;&lt;/font&gt;-&lt;div&gt;ANDRZEJ SAPKOWSKI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#166CFF;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
